@@ -5,3 +5,6 @@ part_ae filter=lfs diff=lfs merge=lfs -text
 part_af filter=lfs diff=lfs merge=lfs -text
 part_ag filter=lfs diff=lfs merge=lfs -text
 part_ah filter=lfs diff=lfs merge=lfs -text
+part_ai filter=lfs diff=lfs merge=lfs -text
+part_aj filter=lfs diff=lfs merge=lfs -text
+part_ak filter=lfs diff=lfs merge=lfs -text
