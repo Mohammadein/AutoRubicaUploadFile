@@ -1,2 +1,4 @@
 part_aa filter=lfs diff=lfs merge=lfs -text
 part_ab filter=lfs diff=lfs merge=lfs -text
+part_ad filter=lfs diff=lfs merge=lfs -text
+part_ae filter=lfs diff=lfs merge=lfs -text
