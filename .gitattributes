@@ -13,3 +13,4 @@ part_an filter=lfs diff=lfs merge=lfs -text
 part_am filter=lfs diff=lfs merge=lfs -text
 part_ao filter=lfs diff=lfs merge=lfs -text
 part_ap filter=lfs diff=lfs merge=lfs -text
+part_ac filter=lfs diff=lfs merge=lfs -text
